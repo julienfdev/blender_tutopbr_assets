@@ -4,8 +4,10 @@ Bonjour, merci de prendre connaissance de ce Readme avant de télécharger ce pa
 
 ## Licence et Utilisation
 
-Ce contenu est sous licence CreativeCommons. Les modalités de la licence CreativeCommons sont détaillées dans le 
-fichier licence attenant à ce Readme.  Les textures contenues dans le dossier textures/ sont gratuites, et proviennent 
+Ce contenu est sous licence Creative Commons CC BY-NC-SA 4.0. Les modalités de la licence CreativeCommons sont détaillées dans le 
+fichier licence attenant à ce Readme.
+Un résumé est également disponible à l'adresse suivante : https://creativecommons.org/licenses/by-nc-sa/4.0/
+Les textures contenues dans le dossier textures/ sont gratuites, et proviennent 
 de 3DTextures.me, ou de Poliigon.  
 La distribution dans le cadre de ce tutoriel limite la licence d'utilisation à un usage privé, dans le cadre exclusif de ce tutoriel.  
 Merci de prendre connaissance des conditions de propriété intellectuelle spécifique à chaque texture afin de vérifier si un usage étendu est possible.  
