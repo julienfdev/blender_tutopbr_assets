@@ -22,7 +22,7 @@ Contient l'ensemble des textures nécessaires au bon déroulement de ce tutoriel
 
 ## Téléchargement et installation
 
-Pour télécharger les assets du tutos, deux solutions, dans l'onglet "Clone or Download" : 
+Pour télécharger les assets du tutos, cliquer sur le bouton vert "Clone or Download", puis, deux solutions : 
 
 - Copier l'adresse du repository GitHub et utiliser Git Desktop ou Git Bash pour effectuer un clone du repo (Réservé aux utilisateurs de Git)  
 - Cliquer sur Download ZIP, et dézipper le repertoire entier sur votre ordinateur
